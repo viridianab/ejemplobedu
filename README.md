@@ -1,3 +1,3 @@
 # ejemplobedu
-Viridiana B.
-Mexicali, México
+Viridiana B.<br />
+Mexicali, México 🌞<br />
